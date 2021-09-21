@@ -9,4 +9,4 @@ I have implemented used scikit-learn and keras to implement three different mach
 
 Finally, I have combined the three models into a single ensemble model. 
 
-Validation results indicate that the RandomForest model performs better than even the ensemble method, indicating that the NeuralNet model might be prone to overfitting.
+Unsurprisingly, validation results indicate that the ensemble method outperforms any individual model. As a result, I make my final predictions using the ensemble model.
